@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Kanit&family=PT+Sans+Caption&family=Sacramento&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-image: url("img/challenge_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 90px;
+  height: 800px;
+}
+
+.h_title {
+  font-family: "Sacramento", cursive;
+  font-size: 110px;
+  color: #66bfbf;
+  margin-bottom: 30px;
+}
+
+.semi_title {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 43px;
+  color: #66bfbf;
+}
+
+.introduce {
+  margin-bottom: 70px;
+}
+
+hr {
+  margin: 50px auto;
+}
+
+.content {
+  text-align: center;
+  width: 1200px;
+  margin: 70px auto;
+}
+
+.skill_title {
+  margin: 80px 10px;
+}
+
+.imgBox {
+  display: inline-block;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.dot {
+  border: dotted;
+  color: #eaf6f6;
+  width: 50px;
+}
+
+.design {
+  display: block;
+  height: 220px;
+  margin-left: 185px;
+}
+
+.hot_wing {
+  height: 220px;
+  margin-right: 185px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: "Kanit", sans-serif;
+}
+
+.left {
+  float: left;
+  margin-left: 40px;
+}
+
+.right {
+  float: right;
+  margin-right: 50px;
+}
+
+.text {
+  width: 500px;
+  text-align: left;
+}
